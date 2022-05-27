@@ -1,0 +1,8 @@
+D:\zazuk\GitHub\numeros-elevados\numeros_elevados\numeros_elevados\obj\Debug\numeros_elevados.csproj.AssemblyReference.cache
+D:\zazuk\GitHub\numeros-elevados\numeros_elevados\numeros_elevados\obj\Debug\numeros_elevados.csproj.SuggestedBindingRedirects.cache
+D:\zazuk\GitHub\numeros-elevados\numeros_elevados\numeros_elevados\obj\Debug\numeros_elevados.csproj.CoreCompileInputs.cache
+D:\zazuk\GitHub\numeros-elevados\numeros_elevados\numeros_elevados\bin\Debug\numeros_elevados.exe.config
+D:\zazuk\GitHub\numeros-elevados\numeros_elevados\numeros_elevados\bin\Debug\numeros_elevados.exe
+D:\zazuk\GitHub\numeros-elevados\numeros_elevados\numeros_elevados\bin\Debug\numeros_elevados.pdb
+D:\zazuk\GitHub\numeros-elevados\numeros_elevados\numeros_elevados\obj\Debug\numeros_elevados.exe
+D:\zazuk\GitHub\numeros-elevados\numeros_elevados\numeros_elevados\obj\Debug\numeros_elevados.pdb
